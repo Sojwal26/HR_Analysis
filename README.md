@@ -7,3 +7,4 @@ Attrition Rate: Percentage of employees who left relative to the total count.
 Active Employees: Currently employed staff.
 Average Age: Average age of employees.
 And more!
+Build relationships between tables, and uncover insights using Power BI.
